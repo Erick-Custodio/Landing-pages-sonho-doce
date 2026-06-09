@@ -241,7 +241,7 @@ nav a:hover {
 }
 
 #galeria {
-  width: 100%;
+  width: calc(100% - 40px);
   background: #ffffff;
 }
 
@@ -357,7 +357,7 @@ nav a:hover {
 }
 
 #como-funciona {
-  width: 100%;
+  width: calc(100% - 40px);
   background: radial-gradient(circle at top, #2a130f 0%, #140908 65%, #0d0504 100%);
   border-radius: 0;
   border: 1px solid rgba(255, 192, 203, 0.14);
@@ -422,7 +422,7 @@ nav a:hover {
 }
 
 .entrega {
-  width: 100%;
+  width: calc(100% - 40px);
   display: grid;
   grid-template-columns: auto 1fr auto;
   align-items: center;
