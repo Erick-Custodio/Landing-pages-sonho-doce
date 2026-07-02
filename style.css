@@ -355,6 +355,17 @@ nav a:hover {
   background: url("img/item g9.png") center/cover no-repeat;
 }
 
+.g10 {
+  background: url("img/item g10.jpeg") center/cover no-repeat;
+}
+
+.g11 {
+  background: url("img/item g11.jpeg") center/cover no-repeat;
+}
+
+.g12 {
+  background: url("img/item g12.jpeg") center/cover no-repeat;
+}
 #como-funciona {
   background: radial-gradient(circle at top, #2a130f 0%, #140908 65%, #0d0504 100%);
   border-radius: 0;
